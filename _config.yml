@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: David Fernando Bachrach PhD Candidate
+title: David Fernando Bachrach 
 email: david.bachrach@colorado.edu
 description: This website is my personal website. It includes all the essential academic website pieces plus a blog discuss my ongoing fieldwork on the Jakarta-Bandung High-Speed Railway. 
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
