@@ -23,7 +23,7 @@ email: david.bachrach@colorado.edu
 description: This website is my personal website. It includes all the essential academic website pieces plus a blog discuss my ongoing fieldwork on the Jakarta-Bandung High-Speed Railway. 
 baseurl: "/pages-sample" # the subpath of your site, e.g. /blog
 url: "https://dfernandobachrach.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: D_bachrach
 github_username:  jekyll
 
 # Build settings
