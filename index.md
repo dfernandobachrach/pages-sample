@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## David Fernando Bachrach
+   PhD Candidate
 
 
 #### Here are some example pages:
